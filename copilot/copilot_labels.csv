@@ -1,0 +1,40 @@
+label,commits,issues,prs
+development environment,4,5,3
+development environment -> continuous integration,2,4,3
+development environment -> continuous integration -> generating/updating docker container,0,0,1
+development environment -> continuous integration -> implementing/fixing jobs/actions,2,4,3
+development environment -> setting/implementing a new configuration file,2,1,0
+documentation,44,1,12
+documentation -> document architecture,0,0,1
+documentation -> generating api specification,4,0,4
+documentation -> generating code comments,5,0,4
+documentation -> generating contributions info,1,0,0
+documentation -> generating readme,9,0,0
+documentation -> generating user guide,3,0,1
+documentation -> improving writing,19,1,1
+feature implementation/enhancement,33,4,14
+feature implementation/enhancement -> feature enhancement,18,1,11
+feature implementation/enhancement -> feature enhancement -> upgrade to latest version of a library,1,0,3
+feature implementation/enhancement -> feature enhancement -> user experience,9,0,3
+feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,7,0,2
+feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,0,0,1
+feature implementation/enhancement -> implementing a new feature,14,2,2
+feature implementation/enhancement -> prototyping,1,0,1
+feature implementation/enhancement -> prototyping -> implementing proof of concept,1,0,1
+learning,1,5,1
+learning -> how to use a library/framework/tool,1,5,0
+learning -> how to use a library/framework/tool -> generating code examples,1,0,0
+learning -> program comprehension,0,0,1
+process,9,62,30
+process -> automating commit/issue/pr creation,9,62,30
+process -> automating commit/issue/pr creation -> creating commit/issue/pr description,8,4,29
+software quality,41,5,18
+software quality -> code review,4,1,0
+software quality -> fixing,9,3,0
+software quality -> fixing -> functional bugs,6,2,0
+software quality -> fixing -> performance-related,1,0,0
+software quality -> fixing -> supporting debugging,1,2,0
+software quality -> refactoring,18,0,6
+software quality -> testing,9,1,12
+software quality -> testing -> fixing tests,2,0,0
+software quality -> testing -> generating tests,7,1,11

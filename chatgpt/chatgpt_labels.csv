@@ -1,0 +1,62 @@
+label,commits,issues,prs
+development environment,9,6,9
+development environment -> continuous integration,8,2,8
+development environment -> continuous integration -> generating/updating docker container,2,1,0
+development environment -> continuous integration -> implementing/fixing jobs/actions,1,0,4
+development environment -> continuous integration -> integrating ChatGPT reviewing in CI,6,1,4
+development environment -> implementing build script,0,1,0
+development environment -> setting/implementing a new configuration file,1,3,0
+documentation,24,5,17
+documentation -> generating api specification,3,1,3
+documentation -> generating code comments,2,0,3
+documentation -> generating readme,12,0,6
+documentation -> generating release note,0,1,0
+documentation -> generating user guide,0,1,1
+documentation -> improving writing,9,1,6
+documentation -> internationalization support,1,1,2
+feature implementation/enhancement,21,34,29
+feature implementation/enhancement -> design a new feature,0,2,0
+feature implementation/enhancement -> feature enhancement,7,12,10
+feature implementation/enhancement -> feature enhancement -> upgrade to latest version of a library,1,0,1
+feature implementation/enhancement -> feature enhancement -> user experience,2,3,6
+feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,2,1,5
+feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,0,0,1
+feature implementation/enhancement -> finding an api for a given task,0,0,1
+feature implementation/enhancement -> implementing a new feature,12,6,10
+feature implementation/enhancement -> implementing a new feature -> naming code elements,0,0,3
+feature implementation/enhancement -> migrating/reusing code,0,1,0
+feature implementation/enhancement -> migrating/reusing via programming language translation,1,4,3
+feature implementation/enhancement -> prototyping,0,9,1
+feature implementation/enhancement -> prototyping -> generate color palette,0,0,1
+feature implementation/enhancement -> prototyping -> implementing proof of concept,0,6,0
+feature implementation/enhancement -> scripting,1,2,4
+generating/manipulating data,5,4,5
+generating/manipulating data -> ui translations,0,1,3
+learning,2,57,5
+learning -> brainstorming,0,2,1
+learning -> how to use a library/framework/tool,2,50,3
+learning -> how to use a library/framework/tool -> database querying,0,3,1
+learning -> how to use a library/framework/tool -> generating code examples,1,7,0
+learning -> program comprehension,0,5,1
+learning -> program comprehension -> formatting logs for better readability,0,1,0
+learning -> program comprehension -> getting familiar with the codebase,0,0,1
+process,0,15,6
+process -> automating commit/issue/pr creation,0,14,6
+process -> automating commit/issue/pr creation -> creating commit/issue/pr description,0,11,6
+process -> automating commit/issue/pr creation -> creating commit/issue/pr description -> confirming that a suggest change can be implemented,0,1,0
+process -> automating commit/issue/pr creation -> creating commit/issue/pr description -> motivating the need for a proposed change,0,2,1
+process -> automating commit/issue/pr creation -> translating commit/issue/pr description,0,3,0
+process -> release planning,0,1,0
+software quality,15,64,21
+software quality -> code review,2,1,4
+software quality -> code review -> spotting bugs,0,0,1
+software quality -> fixing,5,57,9
+software quality -> fixing -> functional bugs,2,22,3
+software quality -> fixing -> performance-related,0,2,2
+software quality -> fixing -> supporting debugging,0,36,4
+software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,0,5,0
+software quality -> optimization,4,0,1
+software quality -> refactoring,1,3,5
+software quality -> testing,3,3,2
+software quality -> testing -> generating test data,1,2,0
+software quality -> testing -> generating tests,2,1,2

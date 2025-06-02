@@ -1,0 +1,344 @@
+,id,category,labels,link
+0,679b7636c0da9620d9598948,commit,software quality -> optimization,https://github.com/phanxuanquang/Object-Oriented-Programming-UIT/commit/542340802fa92d05ad908ae86cff5dc9c77197e1
+1,679bdc7ec0da9620d95a1b12,commit,learning -> how to use a library/framework/tool,https://github.com/Offroaders123/Dovetail/commit/5b52113e94f499b6ae2b284268b63ff79f35298e
+2,679bf458c0da9620d95a3678,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/clickcaramel/PolyglotRocks/commit/8bb4757c110bc309768e94cd8d000923945fe19b
+3,679c02f5c0da9620d95a4be2,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/AirtestProject/Airtest/commit/b1f3b97f7f9bffb4ee4b9aab47aa6d147b107cf9
+4,679c104cc0da9620d95a5c8d,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/sayedihashimi/sayed-samples/commit/b67a11ebccdeadbaa055ba3b563b6f9a51a49f16
+5,679c104cc0da9620d95a5df9,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/iotexproject/iotex-core/commit/237b5a22d0f57ef88213f2b4359dd7e12f317197
+6,679c3b76c0da9620d95a9c8a,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/pathikrit/newswall/commit/423b3bdc950fb889b58f3dc8030696e6703fc68c
+7,679c4841c0da9620d95aa944,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/AirtestProject/Poco/commit/3e90e5ebe2ba82305d0c664553de8c3d2acb5200
+8,679c4841c0da9620d95aab33,commit,software quality -> fixing,https://github.com/arnog/mathlive/commit/a72ed1cd18270abfdc1e78c89b93ec44976c73d4
+9,679c4841c0da9620d95aab3e,commit,software quality -> optimization,https://github.com/mostafakamal22/Sprints-MERN-E-Banking-System/commit/47317258c55c6c421555ac2ff81fc66b35221a8a
+10,679cd9f4c0da9620d95b7d0e,commit,"documentation,documentation -> generating api specification",https://github.com/esensible/silkflow/commit/7d7769990708a47ebf6d2fa1a399529603e0d8f4
+11,679cf305c0da9620d95b97d6,commit,"documentation -> generating readme,documentation -> internationalization support",https://github.com/lhprojects/blog/commit/0895d5bdcc17a2e421f46082e5d1713876ae29dc
+12,679cf697c0da9620d95ba2d1,commit,software quality -> optimization,https://github.com/hjyssg/ShiguReader/commit/b554452fffe198ac310e511d038d19cc396356dd
+13,679d454ac0da9620d95c0afc,commit,documentation -> generating readme,https://github.com/osism/k8s-capi-images/commit/ffa158634121f447045f2f40e75e88b9d7aa5bb8
+14,679d454ac0da9620d95c0b01,commit,documentation -> generating readme,https://github.com/osism/k8s-capi-images/commit/31cb0a787e87455d0c0f6eba0a6e8e2d7378a107
+15,679d5676c0da9620d95c2785,commit,software quality -> fixing -> functional bugs,https://github.com/MarginallyClever/Robot-Overlord-App/commit/717d37f2e6cc404378efeb429f9fff6a104096cf
+16,679d612dc0da9620d95c30b5,commit,"documentation -> generating readme,generating/manipulating data",https://github.com/nathanwang000/genAI_storyteller/commit/0ae2ef3848814615d3fc432049ebd889e70a7f92
+17,679d632ec0da9620d95c3603,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/LebsterFace/LebJS/commit/90aa087f4957457632c34444580d82db01895f3f
+18,679d6f2ac0da9620d95c44a2,commit,documentation -> generating code comments,https://github.com/oaplatform/oap/commit/30205f6375e718350d8c40a21a7b4eaece12c7b5
+19,679d72c6c0da9620d95c4e9a,commit,documentation -> generating readme,https://github.com/gregorriegler/mob-programming-rpg/commit/5907691e320d123994165a453b2995af159d5822
+20,679d7dedc0da9620d95c5974,commit,feature implementation/enhancement -> feature enhancement,https://github.com/FRCDiscord/Dozer/commit/82b8def79a72b6c990513fa7e469de4e878fddd3
+21,679d7f6fc0da9620d95c5d66,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/GEMDAT-repos/GEMDAT/commit/a6aa3bf7965313d86a50e1e61b85a92ac57fa7f1
+22,679d9127c0da9620d95c7cbc,commit,software quality -> testing -> generating tests,https://github.com/archeryue/go-torrent/commit/53e37826497436336a8345e3c6b525e07cd641d6
+23,679daaa7c0da9620d95c99fa,commit,"documentation -> generating readme,documentation -> improving writing",https://github.com/tyriis/home-ops/commit/f35de01dda08b2bf4f71f112a43f1f4ec654e942
+24,679dc5a3c0da9620d95cbebe,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/kev-m/pyCoilGen/commit/eb9724e9d976cf770a5b4cc506d3c38616c1b51b
+25,679dc764c0da9620d95cc4c4,commit,documentation -> improving writing,https://github.com/ben-manes/caffeine/commit/d0dab86b751099e01110503edb6ecf9f3230cf5f
+26,679dd5b6c0da9620d95cd570,commit,"development environment -> continuous integration -> generating/updating docker container,development environment -> continuous integration -> implementing/fixing jobs/actions",https://github.com/versatiles-org/versatiles-rs/commit/8ec83eead1e1c45d8a2f089781ee4dcd5fe6b7aa
+27,679de029c0da9620d95ce1cb,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/1aienthusiast/audiocraft-infinity-webui/commit/4ba6c6cceae2b2610945b9a870ab4cdf5a34f3d8
+28,679e2bd7c0da9620d95d53bf,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/linux-odyssey/linux-odyssey/commit/d0186727ced8b5707d07c7fa80f5ebd9c0e055ee
+29,679e34abc0da9620d95d57a4,commit,software quality -> refactoring,https://github.com/vortext/esther/commit/9e9fd50fa2b5031f93bb2d18579d69e036b954b4
+30,679e3853c0da9620d95d60c5,commit,documentation -> improving writing,https://github.com/NetFabric/NetFabric.Numerics/commit/5c9cb3ff512e1f450fd9042b3066b510c4372f7b
+31,679e3931c0da9620d95d63b3,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/jonstuebe/jonstuebe.com/commit/33781a3793186ec552c4835fb240fd087fa6932e
+32,679e3931c0da9620d95d63b9,commit,software quality -> testing -> generating test data,https://github.com/wikimedia/mediawiki-tools-codesniffer/commit/c2f2b1282de0f2e9b453e882d5312cd856b24c97
+33,679e4532c0da9620d95d725a,commit,development environment -> continuous integration -> generating/updating docker container,https://github.com/perfectly-preserved-pie/larentals/commit/070a74f3b158eaf570f9ea9b8f6243331f2dc9c1
+34,679e6280c0da9620d95d9e03,commit,documentation -> improving writing,https://github.com/chibiace/ComfyUI-Chibi-Nodes/commit/622e4774b941a2216f0a4aad06da22dd575fa6c4
+35,679e6cb9c0da9620d95da46e,commit,generating/manipulating data,https://github.com/jonathanpeppers/inclusive-code-reviews-ml/commit/1d7f29c2915c2913d0b338ccf3b9abb09aaec2cb
+36,679e6eb7c0da9620d95daaa3,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/gregorriegler/mob-programming-rpg/commit/49311ab5357663630bf870cef91c2b67da98006a
+37,679e7a7bc0da9620d95db64c,commit,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/OpenPF2/Playground/commit/227944e85bd90804504620a79b1ce6f2993217d7
+38,679e7e2bc0da9620d95dc0b8,commit,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/linduxed/dotfiles/commit/01f5c5112ff208455499c59c6d45e976c2ab23d3
+39,679e8d78c0da9620d95ddaea,commit,documentation -> improving writing,https://github.com/CPS-IT/project-builder/commit/885fb4890cfd2a5dfee7699f8a0b6b4ea1c3c661
+40,679e97ddc0da9620d95de2c4,commit,documentation -> generating readme,https://github.com/Xetera/ghost-cursor/commit/a1a26eec700cbf5f655e8b1696ee01a8083a16c1
+41,679ea4a4c0da9620d95df164,commit,"documentation -> generating readme,documentation -> improving writing",https://github.com/brucepro/Memoir/commit/d9ab3a8f48a9e6fbd600f45bf9eabb00f353b495
+42,679ea5a9c0da9620d95df325,commit,documentation -> generating readme,https://github.com/Jaseci-Labs/jaclang/commit/3bfa613f8fdbcbbbb5937729411695f02c27f698
+43,679eaa0ac0da9620d95e0088,commit,software quality -> fixing,https://github.com/fdo-rs/fido-device-onboard-rs/commit/860772db5c48c69c3f3271e0b8ee48b00ce8ba4b
+44,679eb5f0c0da9620d95e0ded,commit,documentation -> generating api specification,https://github.com/COMBINE-lab/grangers/commit/7dcfe4e80c4a9361a9d8da3124961980815257ef
+45,679eb6d2c0da9620d95e11b5,commit,feature implementation/enhancement -> feature enhancement,https://github.com/theothernt/AerialViews/commit/95e3c68e16b708fc45bb4d7d93ca4d679066a01d
+46,679ed052c0da9620d95e2f21,commit,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/ryanw-mobile/giphy-trending/commit/e5c82178255c9230e9482216fe17b3080c5324e1
+47,679ededfc0da9620d95e46e5,commit,documentation -> improving writing,https://github.com/RedsXDD/neopywal.nvim/commit/5ff63e90bbe09c35da54184cdceb29312f6cb3ec
+48,679eeca1c0da9620d95e5884,commit,"feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,software quality -> fixing",https://github.com/pyanodon/pyalienlife/commit/5552d082162ed7fbcd2544170fef4a9d57d5d459
+49,679eee90c0da9620d95e5f2f,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/BarthPaleologue/CosmosJourneyer/commit/26dbb7ca64bc0f10c416c68a9fd255196bc03e67
+50,679eef2fc0da9620d95e5f88,commit,documentation -> generating readme,https://github.com/ryanw-mobile/OctoMeter/commit/f313d81ffaa3cb4cdc60d19b28b009840d5e2405
+51,679efb24c0da9620d95e6c31,commit,documentation -> generating api specification,https://github.com/Jpickard1/BRAD/commit/89ba14e50ad4337e96c27bcbf376372754471b01
+52,679efd00c0da9620d95e71e8,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/coolxv/cpp-stub/commit/7ee41b7085c1e494c5d39e4b0a6ac5434111a7ab
+53,679f09e6c0da9620d95e83ed,commit,generating/manipulating data,https://github.com/seniordev1012/llm-rag-agent/commit/cf53e48b5754cfd7964571c9a4465e92edfe8e66
+54,679f0b18c0da9620d95e8785,commit,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/srinathv/Coding-Examples/commit/23fa556dfbb72e1db4d856346321045e575b73cf
+55,679f0b18c0da9620d95e8817,commit,documentation -> generating code comments,https://github.com/Agenta-AI/agenta/commit/c96d25a347415027e56ee2d61612cd1eed5368ac
+56,679f0c2dc0da9620d95e8a5f,commit,feature implementation/enhancement -> feature enhancement,https://github.com/brhahlen/dc/commit/cc36f150b3d240c190ab59372711f433305f9b3c
+57,679f0cd6c0da9620d95e8beb,commit,software quality -> fixing -> functional bugs,https://github.com/rust-bitcoin/rust-bitcoin/commit/74519c3e55146ce8458a8a45592e5d8ed3b009b8
+58,679f1a39c0da9620d95e9c56,commit,documentation -> improving writing,https://github.com/SSWConsulting/SSW.Rules.Content/commit/cbd09ea53bcb6409ec07605570073f61e74f2249
+59,679f2357c0da9620d95ea14d,commit,feature implementation/enhancement -> feature enhancement,https://github.com/excaliburjs/Excalibur/commit/2745795a95be0c72655fa050adb55d245f557f86
+60,679f2575c0da9620d95ea61a,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/tjrantal/Direct-Linear-Transformation/commit/72325bc30af4770d00e1181dbdae1d6987154188
+61,679f2649c0da9620d95ea980,commit,development environment -> setting/implementing a new configuration file,https://github.com/peterhcharlton/ppg-beats/commit/80c54105bd6f7a2fde78a991574a41e5b968925f
+62,679f2649c0da9620d95eabf1,commit,feature implementation/enhancement -> scripting,https://github.com/joshukraine/dotfiles/commit/615a0f2effa0e78eacc1174a7f962a75f468a92d
+63,679f363bc0da9620d95ec2ef,commit,feature implementation/enhancement -> feature enhancement -> upgrade to latest version of a library,https://github.com/nvlgzr/fngrng/commit/a5f44bb9a4464ab93ef95b8f271bce9ca73acb56
+64,679f439ec0da9620d95ed535,commit,software quality -> code review,https://github.com/mikiepure/pydlt/commit/4fd161516c67fad4f89dca7f5247a7a7f2c726ac
+65,679f443ac0da9620d95ed974,commit,documentation -> improving writing,https://github.com/great-majority/KoikatuCharaLoader/commit/e4b516f9e800f3041dfd19025ee8baff138d60ed
+66,679f6be1c0da9620d95f0bde,commit,generating/manipulating data,https://github.com/clp-research/clembench/commit/4d3c6c83cebe46e047b764cb33344d71b305594a
+67,679f6cf3c0da9620d95f0e85,commit,software quality -> code review,https://github.com/project-gemmi/gemmi/commit/8ad0fcf17e4a6771b6ea9f23c76b14f66890e863
+68,679f7ba5c0da9620d95f229e,commit,feature implementation/enhancement -> implementing a new feature,https://github.com/workadventure/workadventure/commit/cf4a8c7af2971e4d95756b9731cd9286e3b0077f
+69,679f95aac0da9620d95f43a4,commit,software quality -> testing -> generating tests,https://github.com/Pikachuxxxx/Razix/commit/13b9e3be816a2664bf2c747ad8fa60886f311429
+70,679f978fc0da9620d95f4899,commit,documentation -> generating readme,https://github.com/VanceVagell/kv4p-ht/commit/c5d9b58fab6e4c3335d7b2975a3b537e8fb47fce
+71,679f98b7c0da9620d95f4bd4,commit,documentation -> generating readme,https://github.com/filecoin-project/filecoin-docs/commit/d4bca8d656c572f0ebdeed7c308381e46b386572
+72,679f999ec0da9620d95f50d4,commit,software quality -> optimization,https://github.com/transientskp/pyse/commit/37466a738822ca011ab7d56df2f8775e3d10096e
+73,679fa56ec0da9620d95f5b3b,commit,generating/manipulating data,https://github.com/Vretu-Dev/UsefulHints/commit/d77c2f6bd0e74d141b1fb798d678188d7c588205
+74,679a7a2ecbe8284d7a71c7df,issue,learning -> how to use a library/framework/tool,https://github.com/SNNafi/media_store_plus/issues/1
+75,679a7a2ecbe8284d7a71c854,issue,software quality -> fixing -> functional bugs,https://github.com/kohya-ss/sd-webui-additional-networks/issues/43
+76,679a7a2ecbe8284d7a71c86f,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/PenguLoader/PenguLoader/issues/10
+77,679a7af8cbe8284d7a71c8da,issue,software quality -> refactoring,https://github.com/R3BRootGroup/R3BRoot/issues/763
+78,679a7af8cbe8284d7a71cb10,issue,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/cirolini/genai-code-review/issues/3
+79,679a7af8cbe8284d7a71cb45,issue,software quality -> fixing -> supporting debugging,https://github.com/raspiblitz/raspiblitz/issues/3640
+80,679a86e9cbe8284d7a71d512,issue,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/maxi-blocks/maxi-blocks/issues/4386
+81,679a87c2cbe8284d7a71d735,issue,learning -> how to use a library/framework/tool,https://github.com/anggrayudi/SimpleStorage/issues/113
+82,679a87c2cbe8284d7a71d8ac,issue,learning -> how to use a library/framework/tool,https://github.com/KIOS-Research/QChatGPT/issues/8
+83,679a95d9cbe8284d7a71ed69,issue,learning -> how to use a library/framework/tool,https://github.com/cnr-isti-vclab/PyMeshLab/issues/286
+84,679a9763cbe8284d7a71f12d,issue,learning -> how to use a library/framework/tool,https://github.com/wazuh/wazuh-docker/issues/789
+85,679a9763cbe8284d7a71f273,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/MichielvanBeers/Flow.Launcher.Plugin.ChatGPT/issues/4
+86,679aa1fecbe8284d7a71f775,issue,generating/manipulating data,https://github.com/obophenotype/cell-ontology/issues/1908
+87,679aa26ccbe8284d7a71fa70,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/jaywcjlove/rehype-attr/issues/46
+88,679aa3a0cbe8284d7a71fcee,issue,learning -> how to use a library/framework/tool -> database querying,https://github.com/asgeirrr/pgantomizer/issues/8
+89,679ab0d9cbe8284d7a720c9b,issue,learning -> how to use a library/framework/tool -> database querying,https://github.com/smashedtoatoms/asdf-postgres/issues/70
+90,679ab17fcbe8284d7a721085,issue,software quality -> fixing -> supporting debugging,https://github.com/PipedreamHQ/pipedream/issues/6097
+91,679ab2bccbe8284d7a7216d4,issue,"process -> release planning,software quality -> code review",https://github.com/GFW-knocker/gfw_resist_tls_proxy/issues/49
+92,679ab33ecbe8284d7a7218e7,issue,software quality -> fixing -> supporting debugging,https://github.com/google-ai-edge/mediapipe/issues/4357
+93,679abf81cbe8284d7a7224ab,issue,learning -> how to use a library/framework/tool -> database querying,https://github.com/ad-freiburg/qlever/issues/978
+94,679ac009cbe8284d7a722722,issue,learning -> how to use a library/framework/tool,https://github.com/python-pillow/Pillow/issues/7170
+95,679ac16ccbe8284d7a722cd3,issue,"feature implementation/enhancement -> design a new feature,feature implementation/enhancement -> feature enhancement -> user experience",https://github.com/replicatedhq/troubleshoot/issues/1182
+96,679accb5cbe8284d7a7232b0,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/LinguaPhylo/linguaPhylo/issues/383
+97,679accb5cbe8284d7a7232e7,issue,"learning -> how to use a library/framework/tool,learning -> program comprehension",https://github.com/AlizerUncaged/desktop-waifu/issues/65
+98,679accb5cbe8284d7a7233d2,issue,"learning -> how to use a library/framework/tool -> generating code examples,software quality -> fixing -> supporting debugging -> writing code to reproduce a bug",https://github.com/tensorflow/tensorflow/issues/60800
+99,679accb5cbe8284d7a723539,issue,"documentation -> generating user guide,learning -> how to use a library/framework/tool",https://github.com/greenshot/greenshot/issues/499
+100,679acd1ccbe8284d7a723706,issue,learning,https://github.com/ultralytics/yolov5/issues/11696
+101,679acda1cbe8284d7a723752,issue,documentation -> internationalization support,https://github.com/stakwork/sphinx-ios/issues/224
+102,679ace80cbe8284d7a7239ea,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/Nixtla/neuralforecast/issues/669
+103,679ace80cbe8284d7a723b6e,issue,learning -> how to use a library/framework/tool,https://github.com/muellerberndt/mini-agi/issues/66
+104,679ace80cbe8284d7a723c05,issue,development environment -> implementing build script,https://github.com/glassfy/capacitor-plugin-glassfy/issues/23
+105,679acf3acbe8284d7a723f35,issue,software quality -> fixing -> functional bugs,https://github.com/Picovoice/porcupine/issues/1018
+106,679acf3acbe8284d7a72403f,issue,learning -> how to use a library/framework/tool,https://github.com/ptitSeb/box86/issues/839
+107,679acfdfcbe8284d7a7242d4,issue,learning -> how to use a library/framework/tool,https://github.com/microsoft/PowerToys/issues/27165
+108,679acfdfcbe8284d7a724317,issue,software quality -> fixing -> functional bugs,https://github.com/0xERR0R/blocky/issues/1062
+109,679ada32cbe8284d7a724378,issue,software quality -> fixing -> supporting debugging,https://github.com/Juniper/nita/issues/11
+110,679ada32cbe8284d7a7243a9,issue,learning->brainstorming,https://github.com/huggingface/blog/issues/1292
+111,679adadfcbe8284d7a724797,issue,software quality -> fixing -> supporting debugging,https://github.com/microsoftgraph/msgraph-training-php/issues/125
+112,679adb8ecbe8284d7a724a7f,issue,learning -> how to use a library/framework/tool,https://github.com/P4ELTE/t4p4s/issues/51
+113,679adb8ecbe8284d7a724b5d,issue,learning -> how to use a library/framework/tool,https://github.com/Vanilagy/mp4-muxer/issues/11
+114,679adc25cbe8284d7a724d9b,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/mprib/caliscope/issues/439
+115,679adcbfcbe8284d7a724ff8,issue,software quality -> fixing -> performance-related,https://github.com/vitoplantamura/OnnxStream/issues/10
+116,679adcbfcbe8284d7a725144,issue,feature implementation/enhancement -> scripting,https://github.com/linkwarden/linkwarden/issues/123
+117,679ae7becbe8284d7a725563,issue,feature implementation/enhancement -> feature enhancement,https://github.com/layters/testshop/issues/186
+118,679ae7becbe8284d7a72563c,issue,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/mikey0000/PyMammotion/issues/4
+119,679ae7becbe8284d7a72567c,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/smartstore/Smartstore/issues/784
+120,679ae8d3cbe8284d7a725a6e,issue,feature implementation/enhancement -> feature enhancement,https://github.com/Open-Systems-Pharmacology/PK-Sim/issues/2717
+121,679ae8d3cbe8284d7a725ab5,issue,feature implementation/enhancement -> feature enhancement,https://github.com/proudcity/wp-proudcity/issues/2340
+122,679ae8d3cbe8284d7a725b81,issue,learning -> how to use a library/framework/tool,https://github.com/shadowsocks/shadowsocks-android/issues/3121
+123,679ae8d3cbe8284d7a725c6a,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/kyegomez/LongNet/issues/16
+124,679aea6ecbe8284d7a726167,issue,software quality -> testing -> generating tests,https://github.com/Agenta-AI/agenta/issues/580
+125,679aea6ecbe8284d7a72628b,issue,software quality -> fixing -> supporting debugging,https://github.com/Mustard2/MustardSimplify/issues/7
+126,679aeb08cbe8284d7a7265d9,issue,learning -> program comprehension,https://github.com/ph00lt0/blocklist/issues/49
+127,679aeba8cbe8284d7a726828,issue,software quality -> refactoring,https://github.com/fzyzcjy/flutter_rust_bridge/issues/1381
+128,679aeba8cbe8284d7a7268d9,issue,learning -> how to use a library/framework/tool,https://github.com/jackMort/ChatGPT.nvim/issues/294
+129,679af5e3cbe8284d7a726b1d,issue,software quality -> fixing -> supporting debugging,https://github.com/mtalcott/google-photos-deduper/issues/25
+130,679af6e7cbe8284d7a726e7d,issue,learning -> how to use a library/framework/tool,https://github.com/TDAmeritrade/stumpy/issues/926
+131,679af76dcbe8284d7a7271ed,issue,"learning -> how to use a library/framework/tool,software quality -> fixing -> supporting debugging",https://github.com/EleutherAI/lm-evaluation-harness/issues/939
+132,679af7fccbe8284d7a72735f,issue,feature implementation/enhancement -> feature enhancement,https://github.com/ethers-io/ethers.js/issues/4440
+133,679af877cbe8284d7a7276a9,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/redjohnsh/arewelibadwaitayet/issues/1
+134,679af9d4cbe8284d7a727a93,issue,learning -> how to use a library/framework/tool,https://github.com/zylon-ai/private-gpt/issues/1223
+135,679af9d4cbe8284d7a727b12,issue,learning -> how to use a library/framework/tool,https://github.com/acornjs/acorn/issues/1265
+136,679af9d4cbe8284d7a727c04,issue,software quality -> fixing -> supporting debugging,https://github.com/rvlenth/emmeans/issues/456
+137,679b0423cbe8284d7a727fc8,issue,software quality -> fixing -> functional bugs,https://github.com/yarnpkg/berry/issues/5987
+138,679b04bccbe8284d7a7280de,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/express-validator/express-validator/issues/1265
+139,679b0549cbe8284d7a728478,issue,feature implementation/enhancement -> prototyping,https://github.com/Kerollmops/blog/issues/4
+140,679b05cdcbe8284d7a728739,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/angular/angular/issues/53519
+141,679b0656cbe8284d7a7288ff,issue,software quality -> fixing -> supporting debugging,https://github.com/localsend/localsend/issues/1045
+142,679b06d1cbe8284d7a728b5e,issue,software quality -> fixing -> functional bugs,https://github.com/DiegoFleitas/letterboxd-movie-justwatch/issues/29
+143,679b0743cbe8284d7a728c9c,issue,process -> automating commit/issue/pr creation -> confirming that a suggest change can be implemented,https://github.com/MobiFlight/MobiFlight-Connector/issues/1533
+144,679b07d8cbe8284d7a728fb3,issue,learning -> how to use a library/framework/tool,https://github.com/Patrick-Hogan/wandering_inn/issues/26
+145,679b12e1cbe8284d7a7295e6,issue,software quality -> fixing -> functional bugs,https://github.com/einsteinpy/einsteinpy/issues/655
+146,679b1365cbe8284d7a7296c0,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/cfig/Android_boot_image_editor/issues/136
+147,679b147ecbe8284d7a729b36,issue,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/langchain4j/langchain4j/issues/574
+148,679b147ecbe8284d7a729b52,issue,learning -> program comprehension,https://github.com/exercism/problem-specifications/issues/2376
+149,679b147ecbe8284d7a729c6a,issue,documentation -> improving writing,https://github.com/citizenos/citizenos-fe/issues/743
+150,679b147ecbe8284d7a729c74,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/sabrogden/Ditto/issues/619
+151,679b14f0cbe8284d7a729e3b,issue,learning -> how to use a library/framework/tool,https://github.com/flutter/flutter/issues/143071
+152,679b1571cbe8284d7a729fdb,issue,learning -> how to use a library/framework/tool,https://github.com/leomariga/pyRANSAC-3D/issues/40
+153,679b1571cbe8284d7a72a192,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/PCAssistSoftware/RoboSharp/issues/192
+154,679b1607cbe8284d7a72a2b1,issue,feature implementation/enhancement -> design a new feature,https://github.com/PolicyEngine/policyengine-uk/issues/816
+155,679b2058cbe8284d7a72a4d5,issue,software quality -> fixing -> supporting debugging,https://github.com/l3uddz/plex_dupefinder/issues/76
+156,679b2058cbe8284d7a72a4dd,issue,learning -> how to use a library/framework/tool,https://github.com/PurpleI2P/i2pd/issues/2025
+157,679b20efcbe8284d7a72a894,issue,learning -> how to use a library/framework/tool,https://github.com/ashuramaruzxc/anime-cursors/issues/4
+158,679b2186cbe8284d7a72ab29,issue,learning -> how to use a library/framework/tool,https://github.com/HFQR/xitca-web/issues/981
+159,679b2186cbe8284d7a72ac8a,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/openai/openai-python/issues/1235
+160,679b2186cbe8284d7a72aca3,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/hedyorg/hedy/issues/5266
+161,679b2214cbe8284d7a72aec7,issue,software quality -> fixing -> functional bugs,https://github.com/joaosilvalopes/linkedin-easy-apply-bot/issues/82
+162,679b2298cbe8284d7a72b14b,issue,learning -> how to use a library/framework/tool,https://github.com/cubiq/ComfyUI_IPAdapter_plus/issues/339
+163,679b230fcbe8284d7a72b248,issue,software quality -> fixing -> supporting debugging,https://github.com/react-navigation/react-navigation/issues/11919
+164,679b230fcbe8284d7a72b309,issue,learning -> how to use a library/framework/tool,https://github.com/excalidraw/svg-to-excalidraw/issues/177
+165,679b23d3cbe8284d7a72b5fd,issue,feature implementation/enhancement -> feature enhancement -> user experience,https://github.com/nunocoracao/blowfish/issues/1398
+166,679b2e20cbe8284d7a72b7c2,issue,process -> automating commit/issue/pr creation -> translating commit/issue/pr description,https://github.com/grblHAL/core/issues/490
+167,679b2f90cbe8284d7a72bf5e,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/PointCloudLibrary/pcl/issues/6027
+168,679b2f90cbe8284d7a72bfa2,issue,learning -> how to use a library/framework/tool,https://github.com/nvim-lua/kickstart.nvim/issues/897
+169,679b300dcbe8284d7a72c133,issue,software quality -> fixing -> functional bugs,https://github.com/DevYukine/red_oxide/issues/23
+170,679b3127cbe8284d7a72c633,issue,software quality -> fixing -> supporting debugging,https://github.com/kalfazed/tensorrt_starter/issues/6
+171,679b31bfcbe8284d7a72c8f8,issue,software quality -> fixing -> functional bugs,https://github.com/PowerShell/PowerShell/issues/23850
+172,679b3249cbe8284d7a72c9dc,issue,software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,https://github.com/holoviz/panel/issues/6869
+173,679b3249cbe8284d7a72caa0,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/zed-industries/zed/issues/12469
+174,679b3249cbe8284d7a72cb83,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/manga-download/hakuneko/issues/7131
+175,679b3249cbe8284d7a72cbbd,issue,software quality -> fixing -> supporting debugging,https://github.com/face-hh/webx/issues/120
+176,679b3c80cbe8284d7a72cdcd,issue,software quality -> fixing -> supporting debugging,https://github.com/TMElyralab/Comfyui-MusePose/issues/34
+177,679b3da0cbe8284d7a72d0fa,issue,learning -> how to use a library/framework/tool,https://github.com/scripting/opml.org/issues/20
+178,679b3e2fcbe8284d7a72d4af,issue,software quality -> fixing -> supporting debugging,https://github.com/kitao/pyxel/issues/542
+179,679b3ebccbe8284d7a72d622,issue,feature implementation/enhancement -> feature enhancement,https://github.com/SwagOtaku/plugin.video.kaito/issues/109
+180,679b3ebccbe8284d7a72d6b0,issue,learning -> how to use a library/framework/tool,https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2858
+181,679b3ebccbe8284d7a72d7c1,issue,feature implementation/enhancement -> feature enhancement,https://github.com/mrAceT/nextcloud-S3-local-S3-migration/issues/16
+182,679b3f3dcbe8284d7a72d838,issue,feature implementation/enhancement -> implementing a new feature,https://github.com/sindresorhus/type-fest/issues/904
+183,679b3f3dcbe8284d7a72d8b6,issue,"software quality -> fixing -> functional bugs,software quality -> fixing -> supporting debugging",https://github.com/zotify-dev/zotify/issues/151
+184,679b3f3dcbe8284d7a72da24,issue,learning -> how to use a library/framework/tool,https://github.com/pgadmin-org/pgadmin4/issues/7673
+185,679b3fbfcbe8284d7a72da79,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/simonbengtsson/jsPDF-AutoTable/issues/1062
+186,679b3fbfcbe8284d7a72daae,issue,documentation -> generating api specification,https://github.com/oblitum/Interception/issues/189
+187,679b4a5dcbe8284d7a72dfaf,issue,software quality -> fixing -> functional bugs,https://github.com/epwalsh/obsidian.nvim/issues/663
+188,679b4a5dcbe8284d7a72e0bf,issue,learning -> how to use a library/framework/tool,https://github.com/koekeishiya/yabai/issues/2365
+189,679b4ad8cbe8284d7a72e16d,issue,software quality -> testing -> generating test data,https://github.com/az-digital/az_quickstart/issues/3576
+190,679b4ad8cbe8284d7a72e18d,issue,development environment -> setting/implementing a new configuration file,https://github.com/premake/premake-core/issues/2231
+191,679b4b52cbe8284d7a72e3f7,issue,generating/manipulating data,https://github.com/need4swede/Portall/issues/26
+192,679b4cc8cbe8284d7a72e99b,issue,software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,https://github.com/AdguardTeam/AdguardBrowserExtension/issues/2912
+193,679b4cc8cbe8284d7a72e9e7,issue,software quality -> fixing -> functional bugs,https://github.com/confluentinc/librdkafka/issues/4830
+194,679b5897cbe8284d7a72f3f4,issue,learning -> how to use a library/framework/tool,https://github.com/nikitabobko/AeroSpace/issues/520
+195,679b5897cbe8284d7a72f446,issue,software quality -> fixing -> supporting debugging,https://github.com/AnasAito/SkillNER/issues/78
+196,679b592ccbe8284d7a72f5aa,issue,software quality -> fixing -> supporting debugging,https://github.com/thebrumby/HotWalletClaimer/issues/240
+197,679b592ccbe8284d7a72f64f,issue,learning -> how to use a library/framework/tool,https://github.com/389ds/389-ds-base/issues/6344
+198,679b592ccbe8284d7a72f745,issue,software quality -> fixing -> supporting debugging,https://github.com/jamezmca/broodl/issues/3
+199,679b592ccbe8284d7a72f749,issue,learning -> how to use a library/framework/tool,https://github.com/metavoiceio/metavoice-src/issues/196
+200,679b59c7cbe8284d7a72f80d,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description -> motivating the need for a proposed change,https://github.com/hasanharman/form-builder/issues/2
+201,679b59c7cbe8284d7a72f94a,issue,process -> automating commit/issue/pr creation -> translating commit/issue/pr description,https://github.com/CorgiTaco/Enhanced-Celestials/issues/220
+202,679b59c7cbe8284d7a72f97b,issue,software quality -> fixing,https://github.com/comfyanonymous/ComfyUI/issues/5129
+203,679b59c7cbe8284d7a72f9e8,issue,software quality -> fixing -> functional bugs,https://github.com/martabal/qbittorrent-exporter/issues/77
+204,679b5b14cbe8284d7a72fe97,issue,development environment -> continuous integration -> generating/updating docker container,https://github.com/meshtastic/network-management-client/issues/472
+205,679b5ba1cbe8284d7a73005e,issue,generating/manipulating data -> ui translations,https://github.com/writingtool-org/writingtool/issues/10
+206,679b5ba1cbe8284d7a7300e2,issue,learning->brainstorming,https://github.com/dome272/Diffusion-Models-pytorch/issues/45
+207,679b5ba1cbe8284d7a7301b0,issue,software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,https://github.com/ProjectEvergreen/wcc/issues/170
+208,679b5c36cbe8284d7a730307,issue,software quality -> fixing -> functional bugs,https://github.com/godotjs/GodotJS/issues/14
+209,679b5c36cbe8284d7a730439,issue,feature implementation/enhancement -> feature enhancement,https://github.com/voidtrance/voron-klipper-extensions/issues/15
+210,679b666ecbe8284d7a7305b0,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/microsoft/vscode-js-debug/issues/2118
+211,679b666ecbe8284d7a7306e2,issue,software quality -> fixing -> functional bugs,https://github.com/ProjectSidewalk/SidewalkWebpage/issues/3714
+212,679b666ecbe8284d7a73073e,issue,"feature implementation/enhancement -> feature enhancement,feature implementation/enhancement -> prototyping",https://github.com/zyedidia/micro/issues/3529
+213,679b666ecbe8284d7a730789,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/cornellh4i/ithaca-recovery/issues/79
+214,679b66f0cbe8284d7a730807,issue,learning -> program comprehension -> formatting logs for better readability,https://github.com/freelawproject/courtlistener/issues/4646
+215,679b66f0cbe8284d7a730862,issue,learning -> program comprehension,https://github.com/matteo-convertino/otpmanager-app/issues/57
+216,679b66f0cbe8284d7a73087b,issue,generating/manipulating data,https://github.com/languagetool-org/languagetool/issues/10994
+217,679b66f0cbe8284d7a730949,issue,software quality -> fixing -> supporting debugging -> writing code to reproduce a bug,https://github.com/arkivanov/Decompose/issues/807
+218,679b66f0cbe8284d7a7309bb,issue,feature implementation/enhancement -> prototyping -> implementing proof of concept,https://github.com/tokenami/tokenami/issues/380
+219,679b6789cbe8284d7a730a32,issue,feature implementation/enhancement -> scripting,https://github.com/Letaryat/poor-sharptimer/issues/93
+220,679b6789cbe8284d7a730b5d,issue,feature implementation/enhancement -> feature enhancement,https://github.com/perazz/fortran-lapack/issues/65
+221,679b6789cbe8284d7a730bc5,issue,"process -> automating commit/issue/PR creation -> creating commit/issue/PR description,process -> automating commit/issue/PR creation -> creating commit/issue/PR description -> motivating the need for a proposed change",https://github.com/Blueforcer/awtrix3/issues/629
+222,679b682dcbe8284d7a730d96,issue,learning -> how to use a library/framework/tool,https://github.com/sibprogrammer/xq/issues/108
+223,679b682dcbe8284d7a730e12,issue,software quality -> fixing -> functional bugs,https://github.com/ReVanced/revanced-patches/issues/3945
+224,679b682dcbe8284d7a730e79,issue,development environment -> setting/implementing a new configuration file,https://github.com/serverpod/serverpod/issues/2972
+225,679b68b7cbe8284d7a731027,issue,learning -> how to use a library/framework/tool,https://github.com/Jugran/lyrics-in-terminal/issues/46
+226,679b68b7cbe8284d7a731035,issue,software quality -> fixing -> supporting debugging,https://github.com/rmcelreath/rethinking/issues/449
+227,679b68b7cbe8284d7a731170,issue,development environment -> setting/implementing a new configuration file,https://github.com/OfficialIncubo/BeatDrop-Music-Visualizer/issues/30
+228,679b6942cbe8284d7a7312f6,issue,"software quality -> fixing -> functional bugs,software quality -> fixing -> supporting debugging",https://github.com/NotePlan/plugins/issues/603
+229,679b69d6cbe8284d7a7314e3,issue,software quality -> fixing -> supporting debugging,https://github.com/DyogenIBENS/Agora/issues/43
+230,679b69d6cbe8284d7a73151e,issue,software quality -> fixing -> supporting debugging,https://github.com/tasgon/observable/issues/101
+231,679b69d6cbe8284d7a731551,issue,software quality -> fixing -> supporting debugging,https://github.com/dotnet/aspnetcore/issues/59371
+232,679b6a5fcbe8284d7a731779,issue,documentation -> generating release note,https://github.com/commons-app/apps-android-commons/issues/6025
+233,679b6a5fcbe8284d7a731798,issue,software quality -> testing -> generating test data,https://github.com/ta4j/ta4j/issues/1240
+234,679b6a5fcbe8284d7a731828,issue,learning -> how to use a library/framework/tool -> generating code examples,https://github.com/chrome-php/chrome/issues/671
+235,679b7493cbe8284d7a731b38,issue,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/fluentform/fluentform/issues/506
+236,679b757dcbe8284d7a731dad,issue,process -> automating commit/issue/pr creation -> translating commit/issue/pr description,https://github.com/mrcanelas/tmdb-addon/issues/48
+237,679b757dcbe8284d7a731f37,issue,software quality -> fixing -> functional bugs,https://github.com/tensorflow/tensorflow/issues/84104
+238,679b757dcbe8284d7a731f96,issue,software quality -> fixing -> functional bugs,https://github.com/raspiblitz/raspiblitz/issues/4916
+239,679b757dcbe8284d7a731f9b,issue,software quality -> fixing -> supporting debugging,https://github.com/FrescoLogic/FL2000/issues/99
+240,679b760ecbe8284d7a731fcd,issue,learning -> how to use a library/framework/tool,https://github.com/FelixHenninger/lab.js/issues/253
+241,679b760ecbe8284d7a73206d,issue,"feature implementation/enhancement -> prototyping,software quality -> refactoring",https://github.com/onyx-dot-app/onyx/issues/3616
+242,679b760ecbe8284d7a7321ea,issue,feature implementation/enhancement -> migrating/reusing code,https://github.com/ukushu/TextProgressBar/issues/3
+243,679b769ccbe8284d7a732232,issue,software quality -> fixing -> functional bugs,https://github.com/unchihugo/FluentFlyout/issues/47
+244,679b769ccbe8284d7a732250,issue,learning -> how to use a library/framework/tool,https://github.com/home-assistant/core/issues/135369
+245,679b769ccbe8284d7a7322c1,issue,software quality -> fixing -> supporting debugging,https://github.com/google-deepmind/mujoco/issues/2352
+246,679b769ccbe8284d7a7323e9,issue,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/Pirate-Weather/pirate-weather-code/issues/52
+247,679b769ccbe8284d7a732468,issue,learning -> how to use a library/framework/tool,https://github.com/JsMacros/JsMacros/issues/181
+248,679b7729cbe8284d7a73255e,issue,"software quality -> fixing -> performance-related,software quality -> fixing -> supporting debugging",https://github.com/s9y/Serendipity/issues/860
+249,679b77b8cbe8284d7a73274a,issue,software quality -> fixing -> supporting debugging,https://github.com/Epic-Fight/epicfightmod/issues/1906
+250,679b77b8cbe8284d7a7327c2,issue,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/YouTube-Enhancer/extension/issues/759
+251,679b77b8cbe8284d7a732860,issue,"software quality -> fixing -> functional bugs,software quality -> fixing -> supporting debugging",https://github.com/exo-explore/exo/issues/639
+252,679b77b8cbe8284d7a73289a,issue,software quality -> fixing -> functional bugs,https://github.com/twopirllc/pandas-ta/issues/880
+253,679b77b8cbe8284d7a732958,issue,software quality -> fixing -> supporting debugging,https://github.com/mikeizbicki/cmc-csci143/issues/588
+254,679a78f224d155be01f00451,pull-request,naming,https://github.com/seed-hypermedia/mintter/pull/1298
+255,679a7a6a24d155be01f00a2a,pull-request,learning -> program comprehension -> getting familiar with the codebase,https://github.com/opentypejs/opentype.js/pull/572
+256,679a7a6a24d155be01f00a93,pull-request,feature implementation/enhancement -> scripting,https://github.com/zorn/franklin/pull/151
+257,679a7b1024d155be01f00b24,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/RIOT-OS/RIOT/pull/19332
+258,679a877224d155be01f018fb,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/yv989c/ChartsForBenchmarkDotNet/pull/3
+259,679a877224d155be01f01946,pull-request,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/iotexproject/iotex-core/pull/3829
+260,679a877224d155be01f0194b,pull-request,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/iotexproject/iotex-core/pull/3833
+261,679a886424d155be01f01a5e,pull-request,software quality -> code review,https://github.com/iotexproject/iotex-core/pull/3837
+262,679a886424d155be01f01b70,pull-request,"documentation -> generating readme,documentation -> generating user guide",https://github.com/tatsu-lab/stanford_alpaca/pull/160
+263,679a8ac024d155be01f0262d,pull-request,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/ravilushqa/gpt-pullrequest-updater/pull/1
+264,679a947324d155be01f0270a,pull-request,documentation -> improving writing,https://github.com/ringsaturn/tzf/pull/116
+265,679a947324d155be01f02757,pull-request,documentation,https://github.com/supercollider/supercollider/pull/6015
+266,679a947324d155be01f028cd,pull-request,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/Flipnote-Collective/kwz-parser/pull/10
+267,679a96e824d155be01f031d3,pull-request,documentation -> generating readme,https://github.com/osism/k8s-capi-images/pull/185
+268,679a96e824d155be01f03224,pull-request,development environment -> continuous integration -> integrating ChatGPT reviewing in CI,https://github.com/taikoxyz/taiko-mono/pull/13786
+269,679a977b24d155be01f03377,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/enviodev/docs/pull/11
+270,679a977b24d155be01f034a4,pull-request,learning -> how to use a library/framework/tool,https://github.com/WordPress/gutenberg/pull/51011
+271,679a981124d155be01f03618,pull-request,software quality -> fixing,https://github.com/envoyproxy/gateway/pull/1467
+272,679aa25424d155be01f03a70,pull-request,feature implementation/enhancement -> feature enhancement,https://github.com/Mapsui/Mapsui/pull/2058
+273,679aa2e124d155be01f03c2a,pull-request,feature implementation/enhancement -> feature enhancement,https://github.com/DontShaveTheYak/cloud-radar/pull/238
+274,679aa36124d155be01f03e4d,pull-request,documentation -> generating code comments,https://github.com/mem0ai/mem0/pull/43
+275,679aa36124d155be01f03edd,pull-request,software quality -> fixing -> supporting debugging,https://github.com/WiFiBeat/WiFiBeat/pull/5
+276,679aa36124d155be01f03f83,pull-request,generating/manipulating data -> ui translations,https://github.com/RobotsBuildingEducation/RobotsBuildingEducation/pull/16
+277,679aa36124d155be01f03f8c,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/ForumMagnum/ForumMagnum/pull/7491
+278,679aa36124d155be01f03ff2,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/Simon-Initiative/oli-torus/pull/3796
+279,679aa55224d155be01f045f3,pull-request,development environment -> continuous integration -> implementing/fixing jobs/actions,https://github.com/PlasmaPy/PlasmaPy/pull/2249
+280,679aa64124d155be01f0498c,pull-request,naming,https://github.com/flux-framework/flux-core/pull/5360
+281,679aa64124d155be01f04abd,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/ArtBlocks/artbot/pull/559
+282,679ab02d24d155be01f04b77,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/Vencord/Installer/pull/88
+283,679ab02d24d155be01f04d06,pull-request,software quality -> refactoring,https://github.com/internetarchive/bookreader/pull/1210
+284,679ab0eb24d155be01f04f08,pull-request,"documentation -> generating code comments,software quality -> code review",https://github.com/cumc/xqtl-protocol/pull/621
+285,679ab0eb24d155be01f0508e,pull-request,learning->brainstorming,https://github.com/gallery-so/gallery/pull/1833
+286,679ab0eb24d155be01f05160,pull-request,software quality -> testing -> generating tests,https://github.com/mongodb/chatbot/pull/113
+287,679ab1b224d155be01f05369,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/StampyAI/stampy-ui/pull/313
+288,679ab27624d155be01f055bd,pull-request,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/antfu/eslint-config/pull/246
+289,679ab35e24d155be01f05929,pull-request,feature implementation/enhancement -> scripting,https://github.com/lwindolf/multi-status/pull/5
+290,679ab35e24d155be01f05953,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/cvzi/Youtube-Genius-Lyrics-userscript/pull/60
+291,679ab35e24d155be01f05b5a,pull-request,feature implementation/enhancement -> scripting,https://github.com/Satellite-im/Uplink/pull/1290
+292,679abe2624d155be01f05f81,pull-request,software quality -> refactoring,https://github.com/alkem-io/server/pull/3350
+293,679abe2624d155be01f0615b,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description -> motivating the need for a proposed change,https://github.com/achievements-app/psn-api/pull/151
+294,679abffc24d155be01f06706,pull-request,documentation -> generating api specification,https://github.com/hezarai/hezar/pull/124
+295,679abffc24d155be01f067d9,pull-request,naming,https://github.com/swup/swup/pull/836
+296,679ac0de24d155be01f06b95,pull-request,software quality -> fixing -> performance-related,https://github.com/ZephyrProtocol/zephyr/pull/13
+297,679ac1a124d155be01f06d5b,pull-request,feature implementation/enhancement -> prototyping -> generate color palette,https://github.com/ethdebug/format/pull/44
+298,679ac1a124d155be01f06e5a,pull-request,development environment -> continuous integration -> implementing/fixing jobs/actions,https://github.com/loculus-project/loculus/pull/655
+299,679ac22d24d155be01f07139,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/enesky/Doodle/pull/69
+300,679ac22d24d155be01f07158,pull-request,documentation -> generating readme,https://github.com/SSWConsulting/SSW.Rules.Content/pull/7651
+301,679accb324d155be01f07484,pull-request,feature implementation/enhancement -> feature enhancement -> upgrade to latest version of a library,https://github.com/librenms/librenms/pull/15736
+302,679accb324d155be01f07657,pull-request,generating/manipulating data,https://github.com/0x2447196/raypeatarchive/pull/10
+303,679acd8e24d155be01f077e2,pull-request,feature implementation/enhancement -> feature enhancement,https://github.com/statamic/cms/pull/9408
+304,679acd8e24d155be01f079b1,pull-request,software quality -> fixing -> supporting debugging,https://github.com/DefinitelyTyped/DefinitelyTyped/pull/68435
+305,679acd8e24d155be01f079fd,pull-request,documentation -> generating api specification,https://github.com/Xetera/ghost-cursor/pull/116
+306,679ace5424d155be01f07c3c,pull-request,"documentation -> generating readme,documentation -> improving writing",https://github.com/holoviz/holoviz/pull/393
+307,679ad03324d155be01f082e9,pull-request,"development environment -> continuous integration -> implementing/fixing jobs/actions,feature implementation/enhancement -> scripting",https://github.com/bahrmichael/factorio-tycoon/pull/272
+308,679ad03324d155be01f08512,pull-request,development environment -> continuous integration -> implementing/fixing jobs/actions,https://github.com/segmentio/backo-go/pull/11
+309,679adc8d24d155be01f08ef8,pull-request,generating/manipulating data,https://github.com/flytegg/ls-discord-bot/pull/243
+310,679adc8d24d155be01f09014,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/supercollider/supercollider/pull/6272
+311,679adc8d24d155be01f090d6,pull-request,software quality -> fixing -> performance-related,https://github.com/chaiNNer-org/chaiNNer/pull/2822
+312,679ade3f24d155be01f09724,pull-request,learning -> how to use a library/framework/tool,https://github.com/pytorch/test-infra/pull/5237
+313,679adf2424d155be01f09c20,pull-request,"software quality -> fixing -> functional bugs,software quality -> fixing -> supporting debugging",https://github.com/JimmXinu/EpubSplit/pull/12
+314,679ae92e24d155be01f09e53,pull-request,software quality -> refactoring,https://github.com/neozhu/CleanArchitectureWithBlazorServer/pull/696
+315,679ae92e24d155be01f09f08,pull-request,generating/manipulating data -> ui translations,https://github.com/gizmore/gwf3/pull/125
+316,679ae92e24d155be01f09fba,pull-request,learning -> how to use a library/framework/tool -> database querying,https://github.com/BrianHicks/tree-grepper/pull/490
+317,679ae9f224d155be01f0a099,pull-request,software quality -> code review -> spotting bugs,https://github.com/software-mansion/react-native-reanimated/pull/6160
+318,679ae9f224d155be01f0a0ba,pull-request,"documentation -> generating api specification,documentation -> generating code comments,documentation -> improving writing",https://github.com/gicait/geoserver-rest/pull/155
+319,679ae9f224d155be01f0a177,pull-request,documentation -> improving writing,https://github.com/Mapsui/Mapsui/pull/2695
+320,679aeb8f24d155be01f0a8b4,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> gui-related improvements,https://github.com/DataTalksClub/course-management-platform/pull/59
+321,679aec6e24d155be01f0aa0f,pull-request,software quality -> refactoring,https://github.com/serlo/api.serlo.org/pull/1702
+322,679aec6e24d155be01f0aade,pull-request,software quality -> testing -> generating tests,https://github.com/endatix/endatix/pull/44
+323,679aec6e24d155be01f0ab3b,pull-request,documentation -> improving writing,https://github.com/kirillzyusko/react-native-keyboard-controller/pull/533
+324,679af71024d155be01f0b0a4,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/tidy-finance/r-tidyfinance/pull/96
+325,679af86b24d155be01f0b4f6,pull-request,feature implementation/enhancement -> migrating/reusing via programming language translation,https://github.com/apalache-mc/apalache/pull/2980
+326,679afa0424d155be01f0bcce,pull-request,software quality -> refactoring,https://github.com/ReliaQualAssociates/ramstk/pull/1404
+327,679afa0424d155be01f0bd2c,pull-request,software quality -> fixing -> functional bugs,https://github.com/Kong/KongAir/pull/136
+328,679afa0424d155be01f0bdfa,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/PrairieLearn/PrairieLearn/pull/10759
+329,679afa0424d155be01f0be30,pull-request,documentation -> internationalization support,https://github.com/once-ui-system/magic-portfolio/pull/1
+330,679afb3624d155be01f0c12b,pull-request,generating/manipulating data -> ui translations,https://github.com/garagepoort/StaffPlusPlus/pull/249
+331,679afb3624d155be01f0c261,pull-request,software quality -> code review,https://github.com/Kong/kong/pull/13752
+332,679b04e824d155be01f0c419,pull-request,feature implementation/enhancement -> finding an api for a given task,https://github.com/cloudprober/cloudprober/pull/899
+333,679b04e824d155be01f0c480,pull-request,"development environment,feature implementation/enhancement -> implementing a new feature",https://github.com/CleverRaven/Cataclysm-DDA/pull/77212
+334,679b069024d155be01f0cb36,pull-request,process -> automating commit/issue/PR creation -> creating commit/issue/PR description,https://github.com/monkeytypegame/monkeytype/pull/6018
+335,679b069024d155be01f0cb38,pull-request,software quality -> optimization,https://github.com/ItzCrazyKns/Perplexica/pull/453
+336,679b073324d155be01f0ce21,pull-request,documentation -> generating readme,https://github.com/cargo-public-api/cargo-public-api/pull/654
+337,679b07ef24d155be01f0cee3,pull-request,"documentation -> generating readme,documentation -> improving writing",https://github.com/jkunczik/home-assistant-omada/pull/57
+338,679b07ef24d155be01f0cf9c,pull-request,feature implementation/enhancement -> feature enhancement -> user experience -> internationalization support,https://github.com/tauri-apps/tauri/pull/11727
+339,679b13c024d155be01f0da85,pull-request,software quality -> fixing -> supporting debugging,https://github.com/oslabs-beta/CacheIQL/pull/14
+340,679b152824d155be01f0dffb,pull-request,documentation -> internationalization support,https://github.com/luxdotdev/parsertime/pull/57
+341,679b152824d155be01f0e01f,pull-request,software quality -> fixing -> functional bugs,https://github.com/YunoHost-Apps/friendica_ynh/pull/149
+342,679b152824d155be01f0e0df,pull-request,feature implementation/enhancement -> implementing a new feature,https://github.com/cyberbotics/webots_ros2/pull/1024
