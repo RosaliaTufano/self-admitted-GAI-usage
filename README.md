@@ -4,7 +4,7 @@ This is the replication package of the work *"Developers and Generative AI: A St
 
 ## Content
 
-The two folders `chatgpt` and `copilot` contain the same type of files for two analysis conducted. 
+The two folders `chatgpt` and `copilot` contain the same type of files for the two analysis conducted. 
 In particular they contain:
 
 - `<AI-tool>_discarded_instances.csv`: contains the instances discarded during the manual analysis. Each instance comes with its category (commit/issue/PR) and the link to open the instance on GitHub.
