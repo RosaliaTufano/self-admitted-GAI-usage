@@ -24,7 +24,7 @@ In this study we used the labeler platform from the SEART group (https://github.
 
 
 ### Taxonomy for Copilot
-
+![taxonomy_copilot](./copilot/taxonomy_copilot.png?raw=true)
 
 ### Merged Taxonomy
 ![merged_taxonomy](./merged_taxonomy.png?raw=true)
