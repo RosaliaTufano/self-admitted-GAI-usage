@@ -15,7 +15,7 @@ In particular they contain:
 
 `merged_taxonomy.png` represents the taxonomy obtained merging the categories for both ChatGPT and Copilot.
 
-`evolution_over_time.pdf` is a bar chart showing the main categories distributed over different time periods (for ChatGPT) by combining data from our previous study (MSR'24) and the data obtained for the current study.
+`evolution_over_time_chatgpt.pdf` is a bar chart showing the main categories distributed over different time periods (for ChatGPT) by combining data from our previous study (MSR'24) and the data obtained for the current study.
 
 ## Utils
 
