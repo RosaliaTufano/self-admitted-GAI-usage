@@ -13,9 +13,9 @@ In particular they contain:
 - `<AI-tool>_ngrams.txt` : contains the list of n-grams used to select the instances to analyze from the initial dataset.
 - `taxonomy_<AI-tool>.png`: is the representation of the taxonomy built on top of the manual analysis (shown also below)
 
-`merged_taxonomy.png` represents the taxonomy obtained merging the categories for both ChatGPT and Copilot.
-
 `evolution_over_time_chatgpt.pdf` is a bar chart showing the main categories distributed over different time periods (for ChatGPT) by combining data from our previous study (MSR'24) and the data obtained for the current study.
+
+`merged_taxonomy.png` represents the taxonomy obtained merging the categories for both ChatGPT and Copilot.
 
 ## Utils
 
