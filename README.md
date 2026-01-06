@@ -13,6 +13,10 @@ In particular they contain:
 - `<AI-tool>_ngrams.txt` : contains the list of n-grams used to select the instances to analyze from the initial dataset.
 - `taxonomy_<AI-tool>.png`: is the representation of the taxonomy built on top of the manual analysis (shown also below)
 
+## Utils
+
+In this study we used the labeler platform from the SEART group (https://github.com/seart-group/labeler) to facilitate manual labeling.
+
 ### Taxonomy for ChatGPT
 ![taxonomy_chatgpt](./chatgpt/taxonomy_chatgpt.png?raw=true)
 
