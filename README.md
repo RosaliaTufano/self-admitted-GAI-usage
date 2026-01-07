@@ -13,6 +13,12 @@ In particular they contain:
 - `<AI-tool>_ngrams.txt` : contains the list of n-grams used to select the instances to analyze from the initial dataset.
 - `taxonomy_<AI-tool>.png`: is the representation of the taxonomy built on top of the manual analysis (shown also below)
 
+The `scripts` folder contains the scipts used to filter the initial instances. In particular:
+
+- `filter_by_ngram.ipynb` : is the code used to filter the instances based on the list of valid ngrams (the lists of valid ngrams are in the `chatgpt` and `copilot` folders).
+- `filter_by_repos.ipynb` : is the code used to filter the instances based on the list of valid GitHub repositories.
+- `repos.csv` : is the list of valid GitHub repositories.
+
 `evolution_over_time_chatgpt.pdf` is a bar chart showing the main categories distributed over different time periods (for ChatGPT) by combining data from our previous study (MSR'24) and the data obtained for the current study.
 
 `merged_taxonomy.png` represents the taxonomy obtained merging the categories for both ChatGPT and Copilot.
