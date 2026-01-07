@@ -22,3 +22,13 @@ In particular they contain:
 In this study we used the labeler platform from the SEART group (https://github.com/seart-group/labeler) to facilitate manual labeling.
 
 ## Taxonomies
+
+### Taxonomy for ChatGPT
+![taxonomy_chatgpt](./chatgpt/taxonomy_chatgpt.png?raw=true)
+
+
+### Taxonomy for Copilot
+![taxonomy_copilot](./copilot//taxonomy_copilot.png?raw=true)
+
+### Merged Taxonomy
+![merged_taxonomy](./merged_taxonomy.png?raw=true)
