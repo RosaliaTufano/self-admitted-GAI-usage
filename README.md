@@ -11,7 +11,7 @@ In particular they contain:
 - `<AI-tool>_labeled_instances.csv`: contains the valid instances used to build the taxonomy. Each instance comes with the assigned label(s), its category (commit/issue/PR) and the link to open the instance on GitHub.
 - `<AI-tool>_labels.csv` : contains the labels that make up the taxonomy. Each label comes with the number of instances (commit/issue/PR) tagged with it.
 - `<AI-tool>_ngrams.txt` : contains the list of n-grams used to select the instances to analyze from the initial dataset.
-- `taxonomy_<AI-tool>.png`: is the representation of the taxonomy built on top of the manual analysis (shown also below)
+- `<AI-tool>_taxonomy.png`: is the representation of the taxonomy built on top of the manual analysis (shown also below)
 
 The `scripts` folder contains the scripts used to filter the initial instances. In particular:
 
@@ -29,4 +29,12 @@ In this study we used the labeler platform from the SEART group (https://github.
 
 ## Taxonomies
 
+### Taxonomy for ChatGPT
+![taxonomy_chatgpt](./chatgpt/chatgpt_taxonomy.png?raw=true)
 
+
+### Taxonomy for Copilot
+![taxonomy_copilot](./copilot//copilot_taxonomy.png?raw=true)
+
+### Merged Taxonomy
+![merged_taxonomy](./merged_taxonomy.png?raw=true)
